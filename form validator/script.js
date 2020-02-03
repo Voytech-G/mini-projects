@@ -59,7 +59,6 @@ form.addEventListener("submit", function(e) {
 // Check required fields
 function checkRequired(inputArr) {
   inputArr.forEach(function(input) {
-    console.log(input.value);
     if (input.value.trim() === "") {
       showError(input, `${getFieldName(input)} is required`);
     } else {
