@@ -1,2 +1,2 @@
 # mini-projects
-Mini projects created with udemy course
+Mini projects created with online course
